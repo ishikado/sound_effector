@@ -1,0 +1,6 @@
+[package]
+name = "sound_effector"
+version = "0.1.0"
+authors = ["ishikado <okazakisaburo@gmail.com>"]
+
+[dependencies]
